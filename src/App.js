@@ -32,7 +32,7 @@ function App() {
     };
   }, [dispatch]);
 
-  console.log( user);
+  console.log( "admin");
   return (
     <div className="app">
       <Router>
